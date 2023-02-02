@@ -36,6 +36,8 @@ For this challenge, you will use the weather description data you've already ret
 
 * The marker layer map is saved and uploaded to the Vacation_Search folder as WeatherPy_vacation_map.png.
 
+![WeatherPy_vation_map](https://github.com/cbrito3/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vation_map.png)
+
 ## Create a Travel Itinerary Map 
 
 * Four DataFrames are created, one for each city on the itinerary. 
