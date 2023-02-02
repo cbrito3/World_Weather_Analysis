@@ -50,4 +50,4 @@ For this challenge, you will use the weather description data you've already ret
     - Country
     - Current weather description with the maximum temperature
     
-   ![WeatherPy_travel_map_markers](https://github.com/cbrito3/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](https://github.com/cbrito3/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
